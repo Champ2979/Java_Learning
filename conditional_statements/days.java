@@ -1,3 +1,6 @@
+// This will print the number of days according to the input provided by the user.
+// These are made with the help of switch statements.
+
 package conditional_statements;
 
 import java.util.Scanner;
