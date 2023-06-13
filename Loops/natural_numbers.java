@@ -1,3 +1,4 @@
+// Addition of n natural numbers provided by user.
 package Loops;
  
 import java.util.*;
