@@ -1,3 +1,4 @@
+// Print the tables of the number n.
 package Loops;
 import java.util.Scanner;
 public class tables {
